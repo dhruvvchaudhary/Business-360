@@ -6,7 +6,7 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 I worked on this project by following the Codebasics PowerBi Course, Link to the course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
 
-[Live Report Link](https://app.powerbi.com/links/JufZbzR7Hl?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare&bookmarkGuid=bc52af0c-3f99-4bac-8193-9350abf82d14)
+[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiY2Y0NzU0ZmUtMWEzYS00OWFhLTk1ZGMtOGZhZmI1MmJjNmU1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Tech stacks
 
@@ -203,7 +203,7 @@ In Home view, all the views button will be available. User will land on specific
 ![Executive.gif](https://github.com/dhruvvchaudhary/Business-360/blob/main/executive%20view.png)
 
 
-You can find the live dashboard here : [Report](https://app.powerbi.com/links/JufZbzR7Hl?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare&bookmarkGuid=bc52af0c-3f99-4bac-8193-9350abf82d14)
+You can find the live dashboard here : [Report](https://app.powerbi.com/view?r=eyJrIjoiY2Y0NzU0ZmUtMWEzYS00OWFhLTk1ZGMtOGZhZmI1MmJjNmU1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 ## Project Outcome
